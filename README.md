@@ -10,9 +10,9 @@
 ### Iteration 2: Recipe Page
 
 - [x] Create a new directory within the **odin-recipes** directory and name it **recipes**.
-- [ ] Create a new HTML file within the **recipes** directory and name it after the recipe it will contain. For example *lasagna.html*. You can use the name of your favorite dish or if you need some inspiration, you can [find a recipe to use here](https://www.allrecipes.com/).
-- [ ] For now, just include a h1 heading with the recipe’s name as its content.
-- [ ] Back in the **index.html** file, add a link to the recipe page you just created. The text of the link should again be the recipe name.
+- [x] Create a new HTML file within the **recipes** directory and name it after the recipe it will contain. For example *lasagna.html*. You can use the name of your favorite dish or if you need some inspiration, you can [find a recipe to use here](https://www.allrecipes.com/).
+- [x] For now, just include a h1 heading with the recipe’s name as its content.
+- [x] Back in the **index.html** file, add a link to the recipe page you just created. The text of the link should again be the recipe name.
 
 ### Iteration 3: Recipe Page Content
 
