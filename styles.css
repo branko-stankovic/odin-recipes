@@ -1,0 +1,18 @@
+main {
+    width: 800px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+figcaption {
+    font-style: italic;
+    color: darkgrey;
+    text-align: center;
+}
