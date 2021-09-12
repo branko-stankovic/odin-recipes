@@ -24,8 +24,5 @@
 
 ### Iteration 4: Add More Recipes
 
-- [ ] Add two more recipes with an identical page structure as the recipe page you’ve already created.
-- [ ] Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
-
-### Finally:
-- [ ] Write a brief introduction for what the current project is and what skills you have demonstrated once you have completed it. (You can do this as a self-reflection at the end of the project which is a good way to review what you have learned.)
+- [x] Add two more recipes with an identical page structure as the recipe page you’ve already created.
+- [x] Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
