@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: #bea87d;
+    font-family: Helvetica, sans-serif;
 }
 header {
     background-color: #291a1f;
@@ -11,11 +12,13 @@ header {
     line-height: 3.5em;
     margin-top: 0;
     padding-top: 0;
+    padding: 0.6em;
 }
 main {
     width: 800px;
     max-width: 100%;
     margin: 0 auto;
+    font-size: 16px;
 }
 h1 {
     text-align: center;
@@ -37,4 +40,17 @@ figcaption {
     text-align: center;
     list-style-type: none;
     line-height: 1.5;
+}
+a:link {
+    color: #291a1f;
+}
+a:visited {
+    color: #675650;
+}
+a:hover {
+    background-color: #675650;
+    color: #f0e0cf;
+}
+a:active {
+
 }
