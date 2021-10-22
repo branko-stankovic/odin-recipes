@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    padding: 0;
+    max-width: 100%;
     background-color: #bea87d;
     font-family: Helvetica, sans-serif;
 }
@@ -10,9 +12,7 @@ header {
     height: 3.5em;
     margin-bottom: 3em;
     line-height: 3.5em;
-    margin-top: 0;
-    padding-top: 0;
-    padding: 0.6em;
+    padding: 0.6em 0;
 }
 main {
     width: 800px;
