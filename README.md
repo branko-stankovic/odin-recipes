@@ -1,4 +1,5 @@
 # Project: Recipes
+Done as a part of the [TheOdinProject](https://www.theodinproject.com/) curriculum.
 
 ## Description:
 - A simple html page with some of my favorite recipes
